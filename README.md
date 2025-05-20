@@ -36,7 +36,6 @@
 
 - 📧 Email: `mahinur.rahman1.cse@ulab.edu.bd`  
 - 🔗 LinkedIn: [Mahinur Rahman Mahin](https://www.linkedin.com/in/mahinurrahmanmahin)
-
 ---
 
 > _“Programming is not about typing, it’s about thinking.” – Rich Hickey_
