@@ -1,10 +1,17 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Mahin's banner" width="100%" />
+  <img src="https://i.pinimg.com/564x/4e/12/4e/4e124e531e484e2f56a6447783d14411.jpg" alt="Mahin's banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mahinur Rahman Mahin</h1>
 <h3 align="center">🎓 C Programming Enthusiast | 🔐 Future Cyber Security Expert</h3>
 <h4 align="center">Exploring the basics today, defending the digital world tomorrow.</h4>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mahin01234&label=Profile%20views&color=0e75b6&style=flat" alt="Mahin01234" />
+</p>
+
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mahin01234&label=Profile%20views&color=0e75b6&style=flat" alt="Mahin01234" />
@@ -79,12 +86,3 @@
 
 > _“Programming is not about typing, it’s about thinking.” – Rich Hickey_
 
----
-
-<p align="center">
-  ⭐ Thanks for visiting my GitHub profile!
-</p>
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Mahin's banner" width="100%" />
-</p>
