@@ -34,7 +34,7 @@
 
 ### 📫 Connect with Me
 
-- 📧 Email: `your.email@example.com`  
+- 📧 Email: `mahinur.rahman1.cse@ulab.edu.bd`  
 - 🔗 LinkedIn: [Mahinur Rahman Mahin](https://www.linkedin.com/in/mahinurrahmanmahin)
 
 ---
