@@ -19,19 +19,17 @@ Welcome to **Project_C**! This repository contains multiple beginner-friendly **
 |------|--------------|-------------|
 | 1 | `add_two_num.c` | Adds two numbers |
 | 2 | `BMI.c` | Body Mass Index Calculator |
-| 3 | `Banking_system.c` | Console-based banking system |
-| 4 | `CGPA.c` | Calculate CGPA |
-| 5 | `Calender.c` | Display monthly calendar |
-| 6 | `Celcius_to_Teamp.c` | Celsius to Fahrenheit |
-| 7 | `Digital_stop_watch.c` | Digital stopwatch |
-| 8 | `Guessing_game.c` | Number guessing game |
-| 9 | `Mul_two_num.c` | Multiply two numbers |
-| 10 | `Only_digital_clock.c` | Simple digital clock |
-| 11 | `Pass_Strength_Checker.c` | Password strength checker |
-| 12 | `Quiz.c` | Console quiz game |
-| 13 | `Simple_calculator.c` | Console calculator |
-| 14 | `Tic_Tac_Toc.c` | Tic-Tac-Toe game |
-| 15 | `digital_alam_clock.c` | Digital alarm clock |
+| 3 | `CGPA.c` | Calculate CGPA |
+| 4 | `Calender.c` | Display monthly calendar |
+| 5 | `Celcius_to_Teamp.c` | Celsius to Fahrenheit |
+| 6 | `Digital_stop_watch.c` | Digital stopwatch |
+| 7 | `Guessing_game.c` | Number guessing game |
+| 8 | `Mul_two_num.c` | Multiply two numbers |
+| 9 | `Only_digital_clock.c` | Simple digital clock |
+| 10 | `Pass_Strength_Checker.c` | Password strength checker |
+| 11 | `Quiz.c` | Console quiz game |
+| 12 | `Simple_calculator.c` | Console calculator |
+| 13 | `digital_alam_clock.c` | Digital alarm clock |
 
 ---
 
