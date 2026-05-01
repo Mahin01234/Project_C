@@ -1,35 +1,18 @@
+# 🧩 Project_C – Beginner-Friendly C Programming Projects
+
+Welcome to **Project_C**! This repository is a collection of small, beginner-friendly projects written in **C**. It's designed for anyone who wants to learn and practice C programming concepts through practical, real‑world examples.
+
+## 📁 Projects at a Glance
+
+| Project | Description | Filename |
+|:--|:--|:--|
+| **Matrix Addition** | Adds two matrices after taking their dimensions and elements as input. | `Add_two_num.c` |
+| **BMI Calculator** | Calculates Body Mass Index using the formula (weight × 703) ÷ (height²) and categorises the result as underweight, normal, or obese. | `BMI.c` |
+| **Temperature Converter** | Converts a temperature from Celsius to Fahrenheit. | `Celcius_to_Teamp.c` |
+| **Matrix Multiplication** | Multiplies two matrices after validating that the column count of the first equals the row count of the second. | `Mul_two_num.c` |
+| **Password Strength Checker** | Checks a password for uppercase letters, lowercase letters, digits, and special characters, then rates its strength as Very Weak, Weak, Medium, or Strong. | `Pass_Strength_Checker.c` |
+| **Bangladesh Quiz Game** | A 5‑question console quiz about Bangladesh. Each correct answer scores 5 points, and the final score is shown out of 25. | `Quiz.c` |
+| **Advanced Calculator** | A menu‑driven calculator that supports addition, subtraction, multiplication, division, modulus, and exponentiation (power). | `Simple_calculator.c` |
 
 
-# 🧩 Project C Collection
-
-Welcome to **Project_C**! This repository contains multiple beginner-friendly **C programming projects**, perfect for learning and practicing C programming concepts.
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 C Programming Enthusiast   
-- 🚀 Solving Competitive Programming Problems  
-
----
-
-### 🛠️ Projects Included
-
-| S.No | Project Name | Description |
-|------|--------------|-------------|
-| 1 | `add_two_num.c` | Adds two numbers |
-| 2 | `BMI.c` | Body Mass Index Calculator |
-| 3 | `Celcius_to_Teamp.c` | Celsius to Fahrenheit |
-| 4 | `Mul_two_num.c` | Multiply two numbers |
-| 5 | `Pass_Strength_Checker.c` | Password strength checker |
-| 6 | `Quiz.c` | Console quiz game |
-| 7 | `Simple_calculator.c` | Console calculator |
----
-
-### 🚀 Getting Started
-
-#### Prerequisites
-- C Compiler (GCC or equivalent)  
-- Terminal or Command Prompt  
-- Optional: VS Code / Sublime Text / Code::Blocks  
 
